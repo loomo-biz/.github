@@ -45,6 +45,11 @@ These items are future plans, not promises of delivery dates or feature availabi
 
 Visit **[LOOMO.BIZ](https://loomo.biz)** to learn more or contact us about collaborations and commercial services.
 
+## Connect with the LOOMO community
+
+- **[LOOMO.BIZ on LinkedIn](https://www.linkedin.com/company/loomo-biz)** — Follow our official company page for LOOMO product updates, open-source ERP launch announcements, enterprise AI developments, and partnership news.
+- **[LOOMO ERP Community & Implementation Partners — LinkedIn Group](https://www.linkedin.com/groups/40989121/)** — Connect with ERP users, ERPNext/Frappe professionals, implementors, consultants, developers, freelancers, and prospective LOOMO partners to share knowledge and explore collaboration opportunities.
+
 ## Upstream acknowledgments and independence
 
 **ERPNext** is developed by **Frappe Technologies and contributors** and is licensed under the **GNU General Public License version 3 (GPL-3.0)**. LOOMO ERP is a branded fork of ERPNext; the applicable upstream copyright notices and open-source obligations must be retained in any published ERP-derived code.
