@@ -50,3 +50,11 @@ Visit **[LOOMO.BIZ](https://loomo.biz)** to learn more or contact us about colla
 **ERPNext** is developed by **Frappe Technologies and contributors** and is licensed under the **GNU General Public License version 3 (GPL-3.0)**. LOOMO ERP is a branded fork of ERPNext; the applicable upstream copyright notices and open-source obligations must be retained in any published ERP-derived code.
 
 **LOOMO is an independent project and is not affiliated with, sponsored by, or endorsed by Frappe Technologies or the ERPNext project.** ERPNext and Frappe names are used here only to identify the source project and relevant technical expertise. Their trademarks and branding are not LOOMO property.
+
+---
+
+## Explore the LOOMO platform
+
+[![LOOMO platform: Agent, ERP and Simulator — explore LOOMO.BIZ](https://raw.githubusercontent.com/loomo-biz/.github/main/assets/loomo-platform-banner.svg)](https://loomo.biz)
+
+*Click the banner to explore the LOOMO website. The platform overview depicts LOOMO's wider product portfolio; this GitHub organization focuses on the open-source LOOMO ERP initiative.*
