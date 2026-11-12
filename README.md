@@ -19,4 +19,9 @@ The LOOMO ERP source is **not yet published**; it is awaiting review of the part
 
 Company website: **https://loomo.biz**.
 
+## Connect with the LOOMO community
+
+- **[LOOMO.BIZ on LinkedIn](https://www.linkedin.com/company/loomo-biz)** — Follow our official company page for LOOMO product updates, open-source ERP launch announcements, enterprise AI developments, and partnership news.
+- **[LOOMO ERP Community & Implementation Partners — LinkedIn Group](https://www.linkedin.com/groups/40989121/)** — Connect with ERP users, ERPNext/Frappe professionals, implementors, consultants, developers, freelancers, and prospective LOOMO partners to share knowledge and explore collaboration opportunities.
+
 LOOMO is an independent project and is not affiliated with or endorsed by Frappe Technologies or ERPNext.
