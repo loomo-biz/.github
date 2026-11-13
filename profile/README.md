@@ -14,10 +14,10 @@
 
 ## What we are building
 
-| LOOMO ERP | LOOMO AGENT | Future enterprise extensions |
+| [LOOMO ERP](https://github.com/loomo-biz/loomo-erp) | LOOMO AGENT | Future enterprise extensions |
 | --- | --- | --- |
 | **Open source.** An ERPNext-derived ERP platform, subject to GNU GPL v3. | **Commercial; in development.** AI-agent capabilities intended to integrate with LOOMO ERP. | **Commercial; planned.** Separately licensed applications, modules, and services where permitted by applicable licenses. |
-| Public community source will be linked here after an upstream/source/security audit. | Not part of the planned public ERP repository. | Not part of the planned public ERP repository. |
+| [Visit the public LOOMO ERP repository](https://github.com/loomo-biz/loomo-erp). Source code will be published after the upstream, licensing, and security audit. | Not part of the public ERP repository. | Not part of the public ERP repository. |
 
 Commercial licensing does not limit rights already granted under the ERPNext GPL-3.0 license. Whether an integration can be licensed separately depends on its actual implementation and the relevant license terms. See [Licensing and commercial offerings](https://github.com/loomo-biz/.github/blob/main/COMMERCIAL.md).
 
