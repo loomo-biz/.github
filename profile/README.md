@@ -6,7 +6,7 @@
 
 **LOOMO ERP** is a branded fork of [ERPNext](https://github.com/frappe/erpnext), developed by Frappe Technologies and contributors. We are building an ecosystem of clients, ERP implementors, developers, freelancers, and implementation partners.
 
-[Website](https://loomo.biz) · [Commercial inquiries](https://loomo.biz) · [Partner inquiries](https://loomo.biz)
+[Website](https://loomo.biz) · [Commercial inquiries](https://loomo.biz/contact?inquiry=general) · [Partner inquiries](https://loomo.biz/contact?inquiry=general)
 
 </div>
 
@@ -45,10 +45,14 @@ These items are future plans, not promises of delivery dates or feature availabi
 
 Visit **[LOOMO.BIZ](https://loomo.biz)** to learn more or contact us about collaborations and commercial services.
 
-## Connect with the LOOMO community
+## Connect with LOOMO
 
-- **[LOOMO.BIZ on LinkedIn](https://www.linkedin.com/company/loomo-biz)** — Follow our official company page for LOOMO product updates, open-source ERP launch announcements, enterprise AI developments, and partnership news.
-- **[LOOMO ERP Community & Implementation Partners — LinkedIn Group](https://www.linkedin.com/groups/40989121/)** — Connect with ERP users, ERPNext/Frappe professionals, implementors, consultants, developers, freelancers, and prospective LOOMO partners to share knowledge and explore collaboration opportunities.
+- **[LOOMO.BIZ — Official Website](https://loomo.biz)** — Explore the LOOMO platform, company news, and enterprise solutions.
+- **[LOOMO.BIZ — LinkedIn Company Page](https://www.linkedin.com/company/loomo-biz)** — Follow official product updates, the upcoming open-source ERP release, enterprise AI developments, and partnership announcements.
+- **[LOOMO ERP Community & Implementation Partners — LinkedIn Group](https://www.linkedin.com/groups/40989121/)** — Join ERP users, ERPNext/Frappe specialists, implementation companies, developers, freelancers, and prospective partners to exchange knowledge and explore collaboration.
+- **[Explore Partnership Opportunities — LOOMO Contact Form](https://loomo.biz/contact?inquiry=general)** — Contact the LOOMO team about becoming an implementation partner, consulting, freelancing, or other collaborations.
+- **[LOOMO Implementation Partner Program](https://github.com/loomo-biz/.github/blob/main/PARTNERS.md)** — Read about the planned official partner network, eligibility, and ways to participate.
+- **[Commercial Licensing Information](https://github.com/loomo-biz/.github/blob/main/COMMERCIAL.md)** — Learn about LOOMO AGENT and future enterprise offerings.
 
 ## Upstream acknowledgments and independence
 
