@@ -27,7 +27,7 @@ We want to build a collaborative ecosystem connecting **businesses, ERPNext/Frap
 
 **ERPNext and Frappe experience is especially welcome.** We intend to establish an official LOOMO implementation partner program; status, certification and commercial arrangements will be subject to separate agreements.
 
-[Explore partnership opportunities](https://loomo.biz) · [Partner program information](https://github.com/loomo-biz/.github/blob/main/PARTNERS.md)
+[Explore partnership opportunities](https://loomo.biz/contact?inquiry=general) · [Partner program information](https://github.com/loomo-biz/.github/blob/main/PARTNERS.md)
 
 ## Roadmap
 
